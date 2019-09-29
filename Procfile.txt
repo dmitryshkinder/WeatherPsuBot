@@ -1,1 +1,1 @@
-web: python weatherbot.py
+web: weatherbot.py
