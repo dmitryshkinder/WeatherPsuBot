@@ -1,1 +1,1 @@
-echo "web: python app.py"
+web: python weatherbot.py runserver 0.0.0.0:$PORT
