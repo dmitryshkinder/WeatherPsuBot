@@ -1,1 +1,1 @@
-web: weatherbot.py
+web: python weatherbot.py runserver
