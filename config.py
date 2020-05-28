@@ -1,1 +1,1 @@
-telebot_token = '948290927:AAFwfEaIkGQ9F19qh8pIHSq7gOMokvifgCU'
+telebot_token = ''
